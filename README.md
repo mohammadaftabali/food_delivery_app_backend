@@ -1,2 +1,2 @@
-# food_delivery_app_backend
-backend weak 2
+# food-delivery-app-backend
+backend for the food delivery app 
